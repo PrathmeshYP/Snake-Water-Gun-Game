@@ -30,10 +30,6 @@ This project enhances the classic console game with a **graphical interface, dar
 * **Python 3**
 * **Tkinter (GUI)**
 * **Random module**
-* **Winsound** (for sound effects on Windows)
-
-> ⚠️ Sound effects work on **Windows OS** only.
-> For Linux/Mac, sound support can be added using other libraries.
 
 ---
 
@@ -45,6 +41,7 @@ Snake-Water-Gun-GUI/
 ├── main.py
 └── README.md
 ```
+
 ---
 
 ## 🎮 How to Play
