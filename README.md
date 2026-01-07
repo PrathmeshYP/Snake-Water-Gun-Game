@@ -11,7 +11,6 @@ This project enhances the classic console game with a **graphical interface, dar
 * 🌙 Dark / ☀️ Light mode toggle
 * 📊 Live score tracking
 * 🔄 Reset / Play again option
-* 🔊 Sound effects for win, lose & draw
 * 🖥️ Clean and modern Tkinter UI
 * 🧠 Computer makes random moves
 
