@@ -69,7 +69,10 @@ Score | You: 1 Computer: 0
 ---
 
 ## Screenshots
-
+<p align="center">
+  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/57fab84880c0c3cf8ced3418b43ebefc33a8115e/Main.png" width="175">
+ 
+</p>
 
 ---
 
