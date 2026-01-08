@@ -68,6 +68,11 @@ Score | You: 1 Computer: 0
 
 ---
 
+## Screenshots
+
+
+---
+
 ## 📈 Future Enhancements
 
 * Best-of-5 / Tournament mode
