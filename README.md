@@ -71,6 +71,7 @@ Score | You: 1 Computer: 0
 ## Screenshots
 <p align="center">
   <img src="https://github.com/PrathmeshYP/Snake-Water-Gun-Game/blob/834463b32a1649cad42facacb0b9661a123707e5/Light.png" width="400">
+  <img src="https://github.com/PrathmeshYP/Snake-Water-Gun-Game/blob/de3a61176e3c162c2800df760e5ef9612ccd2812/Dark.png" width="400">
  
 </p>
 
