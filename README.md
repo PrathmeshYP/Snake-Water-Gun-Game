@@ -1,4 +1,4 @@
-# 🐍 Snake Water Gun Game – Advanced GUI (Python)
+# 🐍 Snake Water Gun Game – Advanced GUI 
 
 A **modern GUI-based Snake–Water–Gun game** built using **Python and Tkinter**.
 This project enhances the classic console game with a **graphical interface, dark/light mode, scoreboard, sound effects, and reset functionality**.
