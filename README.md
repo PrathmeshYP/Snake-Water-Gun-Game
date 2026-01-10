@@ -51,7 +51,6 @@ Snake-Water-Gun-GUI/
 3. Result is displayed instantly
 4. Score updates automatically
 5. Use:
-
    * 🌙 Dark / ☀️ Light button to switch theme
    * 🔄 Reset button to restart the game
 
