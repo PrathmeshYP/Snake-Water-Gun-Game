@@ -83,7 +83,6 @@ Score | You: 1 Computer: 0
 * Cross-platform sound support
 * Animations & transitions
 * Web version (HTML / CSS / JavaScript)
-* Convert into Windows `.exe`
 
 ---
 
