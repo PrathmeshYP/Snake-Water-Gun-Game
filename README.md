@@ -82,7 +82,7 @@ Score | You: 1 Computer: 0
 * Difficulty levels (Easy / Hard AI)
 * Cross-platform sound support
 * Animations & transitions
-* Web version (HTML / CSS / JavaScript)
+* Web version 
 
 ---
 
